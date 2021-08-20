@@ -8,6 +8,7 @@ link : [website-link](https://poke-compare.herokuapp.com/)
 ##### pokemon reference 
 - There will be lots of cards on the website containing the name of the pokemon and their image 
 - clicking on any card gives you detailed information about that particular pokemon
+-  To search a pokemon based on name you can default browser find option ```ctrl```+F  
 
 ##### pokemon comparing
 - There will be two dropdown input boxes which also contains search filtering while typing
