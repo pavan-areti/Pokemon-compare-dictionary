@@ -1,5 +1,6 @@
 # Pokemon-compare and pokemon-dictionary
-link : [website-link](https://poke-compare.herokuapp.com/)
+- [Website-link](https://poke-compare.herokuapp.com/)
+- [Pokemon API link](https://pokeapi.co/)
 
 ### features 
 1. pokemon reference
