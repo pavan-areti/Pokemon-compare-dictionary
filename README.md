@@ -15,7 +15,7 @@ link : [website-link](https://poke-compare.herokuapp.com/)
 - so that you can search your desired pokemon by name and filtering happens based on the typed input and the select pokemon or you can simply select from the dropdown menu
 - select 2 pokemons  from the 2 dropdown input boxes and click compare to compaare that 2 pokemons
 - you will see the comparision of features those two pokemons
-- **Note : **
+- **Note :**
   1. **please dont leave any input box empty as two pokemons are required for comparing**
-  2. **after the opening of compare page please wait until pokemons list dropdown is loaded , **
-       its takes few seconds (3-10 Seconds) as it has to fetch lots of data from the API **
+  2. **after the opening of compare page please wait until pokemons list dropdown is loaded ,**
+      **its takes few seconds (3-10 Seconds) as it has to fetch lots of data from the API**
