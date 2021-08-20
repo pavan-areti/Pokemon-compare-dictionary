@@ -2,15 +2,15 @@
 link : [website-link](https://poke-compare.herokuapp.com/)
 
 ### features 
-1.pokemon reference
-2.pokemon comparing
+1. pokemon reference
+2. pokemon comparing
 
-##### (pokemon reference)[https://poke-compare.herokuapp.com/] 
+##### [pokemon reference](https://poke-compare.herokuapp.com/)
 - There will be lots of cards on the website containing the name of the pokemon and their image 
 - **clicking on any card** gives you detailed information about that particular pokemon
 -  To search a pokemon based on name you can use default browser's find option ```ctrl```+F  
 
-##### (pokemon comparing)[https://poke-compare.herokuapp.com/compare]
+##### [pokemon comparing](https://poke-compare.herokuapp.com/compare)
 - There will be two dropdown input boxes which also contains **search filtering while typing**
 - so that you can search your desired pokemon by name and filtering happens based on the typed input and the select pokemon or you can simply select from the dropdown menu
 - select 2 pokemons  from the 2 dropdown input boxes and click compare to compaare that 2 pokemons
