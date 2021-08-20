@@ -25,6 +25,7 @@ h2{
 
 #pokedex{
     display: grid;
+    align-items: center;
     grid-template-columns: repeat(auto-fit,minmax(250px,0.8fr));
     grid-gap: 30px;
 }

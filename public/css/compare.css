@@ -12,6 +12,7 @@ body {
 h2{
   text-align: center;
   margin-top:20px;
+  margin-left: 15px;
 }
 
 .dropdown{
@@ -47,8 +48,10 @@ img{
 
 .changeBtn{
   position: absolute;
-  left: 20px;
-  top: 20px;
+  text-align: center;
+  vertical-align:middle;
+  left: 10px;
+  top: 17px;
   color: #fff;
   background-color: blue;
 }
